@@ -1,0 +1,185 @@
+.xx
+{
+    padding-left: 55%;
+}
+.yy
+{
+    background-image: url("../../resources/FB_IMG_1537952164077.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 400px;
+}
+.zz
+{
+    width: 55%;
+    padding-left: 430px;
+    padding-top: 10px;
+}
+.aa
+{
+    font-weight: bold;
+    padding-top: 10px;
+}
+.bb
+{
+    padding-top: 5px;
+}
+.uu
+{
+    padding-top: 5px;
+}
+.gg
+{
+    background-color: #6cb817;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.ll
+{
+    height: 2px;
+    color: rgba(50, 93, 13, 0);
+}
+.hh
+{
+    background-color: #295221;
+}
+.ff
+{
+    color: #fffbf7;
+}
+.oo
+{
+    background-image: url("../../resources/FB_IMG_1537954097449.jpg");
+    background-size: 1100px;
+    background-repeat: no-repeat;
+}
+.ii
+{
+    background-color: #fffbf7;
+    width: 100%;
+    height: 400px;
+    margin-top: 100px;
+}
+.dd
+{
+    font-weight: bold;
+    padding-left: 30px;
+}
+.qq
+{
+    padding-top:10px;
+    padding-left: 20px;
+}
+.uu
+{
+    padding-left: 70px;
+}
+.tt,.ss,.pp,.ww
+{
+    margin: 10px;
+}
+.pp
+{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #148714;
+    color: #fffbff;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.ww
+{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.nn
+{
+    color: #21bc15;
+}
+.ut
+{
+    color: #bc3128;
+}
+.kk
+{
+    color: #4a9336;
+}
+.cc
+{
+    list-style-type: none;
+    padding-top: 50px;
+}
+li
+{
+    padding: 5px;
+}
+a
+{
+    color: #121212;
+}
+.ee
+{
+    background-color: #b2152d;
+    height: 30px;
+    margin-top: 10px;
+}
+.vv
+{
+    color: #fafff8;
+    padding-left: 10px;
+    font-weight: bold;
+}
+.qw
+{
+    border: 2px solid #bdbdbd;
+    border-radius: 20px;
+    height: 400px;
+    width: 100%;
+    margin-left: 0.5px;
+    margin-top: 10px;
+}
+.bv
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+.cd
+{
+    margin-top: 5px;
+}
+.cd:hover
+{
+    background-color: #636cff;
+}
+.io
+{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.g
+{
+    padding-left: 2px;
+}
+.ho
+{
+    color: #3eaaff;
+}
+.op
+{
+    list-style-type: none;
+    margin-left: 0px;
+}
+.ko
+{
+    padding-left: 0px;
+    padding-top: 0px;
+}
+.ko:hover
+{
+    background-color: #636cff;
+}
